@@ -1,6 +1,5 @@
 ### Hola, Soy Oliver Yantas Inocente 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxV3cXwh9Ls1Osvyer2wvFw)](https://www.youtube.com/channel/UCxV3cXwh9Ls1Osvyer2wvFw)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olidevyi/)
 ![](https://img.shields.io/github/followers/olidevyi?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/olidevyi?label=%E2%AD%90GitHub%20stars&style=flat-square)
@@ -10,7 +9,6 @@
 
 Soy Bachiller en Ingeniería de Sistemas con experiencia en el mundo del desarrollo de software
 
-- 📷 &nbsp; Tengo un canal de youtube en donde subo videos de mis viajes
 - 🤔 &nbsp; Me gusta explorar nuevas tecnologías
 - 🏗️ &nbsp; Me gusta el diseño y arquitectura de software
 - 🧑‍💼 &nbsp; Trabajé como Software Developer en un proyecto para una institución nacional del Perú
